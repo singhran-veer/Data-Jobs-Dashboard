@@ -63,9 +63,9 @@ The dashboard contains:
 - **Median Yearly Salary / Median Hourly Salary** — switches the salary analysis between annual and hourly compensation.
 
 Dashboard Overview
-```markdown
+
 ![Dashboard](Resources/images/Data_Jobs_Dashboard_Overview.png)
-```
+
 
 ---
 
@@ -79,9 +79,9 @@ For example:
 
 > Select a job title → dashboard KPIs and visualizations update for that role.
 
-```markdown
+
 ![Job Title Filter](Resources/images/Job_Title_Filter.png)
-```
+
 
 ---
 
@@ -91,9 +91,9 @@ The **Select Country** slicer allows users to investigate the technology job mar
 
 This can be used to compare how job demand and compensation vary across different geographic markets.
 
-```markdown
+
 ![Country Filter](Resources/images/Country_Filter.png)
-```
+
 
 ---
 
@@ -107,9 +107,9 @@ For example:
 
 This is particularly useful for exploring location-specific opportunities.
 
-```markdown
+
 ![Job Title and Country Analysis](Resources/images/Job_Title_Country_Filter.png)
-```
+
 
 ---
 
@@ -130,17 +130,17 @@ The buttons at the bottom-left allow users to switch the **Skill Popularity** vi
 
 Shows the relative share of jobs associated with each skill.
 
-```markdown
+
 ![Skill Popularity - Job Percent](Resources/images/Skill_Popularity_Job_Percent.png)
-```
+
 
 ### Job Count
 
 Shows the absolute number of job postings associated with each skill.
 
-```markdown
+
 ![Skill Popularity - Job Count](Resources/images/Skill_Popularity_Job_Count.png)
-```
+
 
 ---
 
@@ -155,17 +155,17 @@ The buttons at the bottom-right allow users to change the salary visualization b
 
 Compares annual compensation across job titles.
 
-```markdown
+
 ![Median Yearly Salary](Resources/images/Median_Yearly_Salary.png)
-```
+
 
 ### Median Hourly Salary
 
 Compares hourly compensation across job titles.
 
-```markdown
+
 ![Median Hourly Salary](Resources/images/Median_Hourly_Salary.png)
-```
+
 
 ---
 
